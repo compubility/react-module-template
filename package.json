@@ -18,6 +18,9 @@
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
   },
+  "publishConfig": {
+    "@compubility:registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
     "url": ""
