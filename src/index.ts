@@ -1,3 +1,3 @@
 /* Import & Export your components here. */
-import { Button } from "./components/button/Button.js";
-export default { Button };
+import { Example } from "./components/example/Example.js";
+export default { Example };
